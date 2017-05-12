@@ -1,0 +1,49 @@
+.countdown-item {
+
+}
+
+/********Normal****/
+.countdown-unit {
+	display: block;
+    float: left;
+    text-align: center;
+    margin-right: 5px;
+    width: 30px;
+    font-size: 20px;
+}
+
+.countdown-unit span {
+	display: block;
+}
+
+.countdown-unit label {
+	font-size: 7px;
+}
+
+/********Small****/
+.countdown-size-sm .countdown-unit {
+	font-size: 15px;
+	width: 25px;
+}
+
+.countdown-size-sm .countdown-unit label{
+	font-size: 6px;
+}
+
+/********Large****/
+.countdown-size-lg .countdown-unit {
+	font-size: 30px;
+	width: 45px;
+}
+
+.countdown-size-lg .countdown-unit label{
+	font-size: 10px;
+}
+
+
+
+
+
+.clear {
+	clear: both;
+}

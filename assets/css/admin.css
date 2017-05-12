@@ -1,0 +1,31 @@
+.admin-countdown-content {	
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+ul.possiveis {
+	margin-left: 30px;
+}
+
+ul.possiveis li {
+	list-style: circle;
+}
+
+.exemplo {
+	margin-bottom: 30px;
+	margin-left: 15px;
+}
+
+.exemplo-code {
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.countdown-footer {
+	border-top: 1px solid #F1F1F1;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 10px;
+}
